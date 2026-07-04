@@ -154,7 +154,7 @@
             "iso": "ma"
           }
         ],
-        "winner": null
+        "winner": 1
       },
       {
         "teams": [
@@ -212,9 +212,10 @@
       {
         "teams": [
           {
-            "name": "TBD",
-            "abbr": "",
-            "flag": ""
+            "name": "Morocco",
+            "abbr": "Morocco",
+            "flag": "🇲🇦",
+            "iso": "ma"
           },
           {
             "name": "TBD",
@@ -360,7 +361,7 @@
             "iso": "gh"
           }
         ],
-        "winner": null
+        "winner": 0
       },
       {
         "teams": [
@@ -377,7 +378,7 @@
             "iso": "eg"
           }
         ],
-        "winner": null
+        "winner": 1
       },
       {
         "teams": [
@@ -394,7 +395,7 @@
             "iso": "cv"
           }
         ],
-        "winner": null
+        "winner": 0
       }
     ],
     [
@@ -441,9 +442,10 @@
             "iso": "ch"
           },
           {
-            "name": "TBD",
-            "abbr": "",
-            "flag": ""
+            "name": "Colombia",
+            "abbr": "Colombia",
+            "flag": "🇨🇴",
+            "iso": "co"
           }
         ],
         "winner": null
@@ -451,14 +453,16 @@
       {
         "teams": [
           {
-            "name": "TBD",
-            "abbr": "",
-            "flag": ""
+            "name": "Egypt",
+            "abbr": "Egypt",
+            "flag": "🇪🇬",
+            "iso": "eg"
           },
           {
-            "name": "TBD",
-            "abbr": "",
-            "flag": ""
+            "name": "Argentina",
+            "abbr": "Argentina",
+            "flag": "🇦🇷",
+            "iso": "ar"
           }
         ],
         "winner": null
